@@ -89,7 +89,7 @@ footer {
   align-items: center;
 }
 
-@media screen and (width<800px) {
+@media screen and (width<756px) {
   .playfull {
     display: flex;
     flex-direction: column;
