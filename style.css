@@ -89,7 +89,7 @@ footer {
   align-items: center;
 }
 
-@media screen and (width<756px) {
+@media screen and (width<576px) {
   .playfull {
     display: flex;
     flex-direction: column;
@@ -115,6 +115,11 @@ footer {
   }
   .section3 {
     background-image: url("img4.avif");
+    background-position: center;
+  }
+  section {
+    background-image: url("img3.avif");
+
     background-position: center;
   }
 }
