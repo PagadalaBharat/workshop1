@@ -90,8 +90,6 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-  
-
   .playfull {
     display: flex;
     flex-direction: column;
@@ -103,7 +101,7 @@ footer {
   }
   header {
     background-image: url("img1.avif");
-    background-position: right;
+    background-position: center;
   }
   .playfull div {
     width: 70%;
@@ -112,12 +110,11 @@ footer {
 
     align-items: center;
   }
-  .playfull p{
+  .playfull p {
     margin-left: 8%;
   }
   .section3 {
     background-image: url("img4.avif");
-  
-    
+    background-position: center;
   }
 }
